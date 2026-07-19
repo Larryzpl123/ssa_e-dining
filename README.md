@@ -43,7 +43,7 @@ feedback rarely reaches the kitchen. E-Dining puts all of that in one place.
 | **Pre-order toggle** | Mark items like the salad bar as dine-in only: visible on the menu, unavailable to pre-order. |
 | **Sandwich components** | Manage the sandwich bar ingredients and toggle availability. |
 | **Feedback moderation** | See who wrote each review, remove inappropriate ones, and suspend a student's feedback access (reversible). |
-| **AI estimate** *(optional)* | Upload a dish photo and name; an AI suggests likely ingredients and calories per 100g for staff to review before saving. |
+| **AI estimate** | Upload a dish photo and name; an AI suggests likely ingredients and calories per 100g for staff to review before saving. |
 
 ---
 
