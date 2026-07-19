@@ -155,5 +155,5 @@ Never run `setup_db.py` on a live site — it resets the menu.
 
 ## Credits
 
-Built by the E-Dining Team at Shady Side Academy:
-Larry Zhong, Leon Li, Ryan Gong, Samuel Li, Peter Liu, William Wei, Jeff Jin
+Project by the E-Dining Team at Shady Side Academy:
+Larry Zhong, Leon Li, Ryan Gong, Samuel Li, Peter Liu, William Wei, and Jeff Jin
